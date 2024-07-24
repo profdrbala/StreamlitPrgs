@@ -7,3 +7,4 @@ scikit-learn
 LinearRegression
 
 google-cloud-firestore
+google.cloud
